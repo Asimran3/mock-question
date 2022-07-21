@@ -1,0 +1,25 @@
+1.What is html?
+•	HTML stands for Hyper Text Markup Language
+•	HTML is the standard markup language for Web pages.
+•	HTML elements are the building blocks of HTML pages.
+•	HTML elements are represented by <> tags.
+2.   what is element?
+•	An HTML element is defined by a start tag, some content, and an end tag.
+3.What is attribute?
+•	All HTML elements can have attributes
+•	Attributes provide additional information about elements
+•	Attributes are always specified in the start tag.
+•	Attributes usually come in name/value pairs like: name="value.
+4.Basic structure of html file?
+•	All HTML documents must start with a document type declaration: <!DOCTYPE html>.
+•	The HTML document itself begins with <html> and ends with </html>.
+•	The visible part of the HTML document is between <body> and </body>.
+5.list out some tags?
+            <head>
+            <tittle>
+            <body>
+            <p>
+           <h>
+          <hr>
+         <br>
+        <u>
